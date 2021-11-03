@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="ip2location">
+    <CLASSES>
+      <root url="jar://D:/DevPrograms/JavaLibs/ip2location.jar!/" />
+      <root url="jar://D:/DevPrograms/JavaLibs/lombok.jar!/" />
+      <root url="jar://D:/DevPrograms/JavaLibs/ojdbc7-12.1.0.2.jar!/" />
+      <root url="jar://D:/DevPrograms/JavaLibs/user_agent_detector-2017-10-31-SNAPSHOT.jar!/" />
+      <root url="jar://D:/DevPrograms/JavaLibs/wss-1.0.20170515.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

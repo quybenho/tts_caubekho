@@ -1,0 +1,71 @@
+Manifest-Version: 1.0
+Built-By: DELL
+Build-Jdk: 15.0.2
+Class-Path: conf/ libs/vertx-web-3.7.1.jar libs/vertx-web-common-3.7.1.j
+ ar libs/vertx-auth-common-3.7.1.jar libs/vertx-bridge-common-3.7.1.jar 
+ libs/vertx-rx-java-3.6.3.jar libs/rxjava-1.3.8.jar libs/vertx-rx-gen-3.
+ 6.3.jar libs/vertx-codegen-3.6.3.jar libs/mvel2-2.3.1.Final.jar libs/Hi
+ kariCP-3.3.1.jar libs/slf4j-api-1.7.25.jar libs/spring-core-5.1.5.RELEA
+ SE.jar libs/spring-jcl-5.1.5.RELEASE.jar libs/spring-data-redis-2.2.0.R
+ ELEASE.jar libs/spring-data-keyvalue-2.2.0.RELEASE.jar libs/spring-oxm-
+ 5.2.0.RELEASE.jar libs/spring-aop-5.2.0.RELEASE.jar libs/spring-context
+ -support-5.1.5.RELEASE.jar libs/spring-beans-5.1.5.RELEASE.jar libs/spr
+ ing-context-5.1.5.RELEASE.jar libs/spring-tx-5.1.5.RELEASE.jar libs/spr
+ ing-orm-5.1.5.RELEASE.jar libs/spring-jdbc-5.1.5.RELEASE.jar libs/sprin
+ g-aspects-5.1.5.RELEASE.jar libs/aspectjweaver-1.9.2.jar libs/jedis-3.0
+ .1.jar libs/commons-pool2-2.4.3.jar libs/quartz-2.3.0.jar libs/c3p0-0.9
+ .5.2.jar libs/mchange-commons-java-0.2.11.jar libs/HikariCP-java6-2.3.1
+ 3.jar libs/gson-2.8.0.jar libs/mail-1.5.0-b01.jar libs/activation-1.1.j
+ ar libs/mysql-connector-java-8.0.21.jar libs/protobuf-java-3.11.4.jar l
+ ibs/hibernate-core-5.2.10.Final.jar libs/jboss-logging-3.3.0.Final.jar 
+ libs/hibernate-jpa-2.1-api-1.0.0.Final.jar libs/javassist-3.20.0-GA.jar
+  libs/antlr-2.7.7.jar libs/jboss-transaction-api_1.2_spec-1.0.1.Final.j
+ ar libs/jandex-2.0.3.Final.jar libs/classmate-1.3.0.jar libs/dom4j-1.6.
+ 1.jar libs/hibernate-commons-annotations-5.0.1.Final.jar libs/hibernate
+ -entitymanager-4.3.1.Final.jar libs/jboss-logging-annotations-1.2.0.Bet
+ a1.jar libs/commons-httpclient-3.1.jar libs/commons-logging-1.0.4.jar l
+ ibs/bcprov-jdk15-140.jar libs/firebase-admin-5.2.0.jar libs/google-api-
+ client-1.22.0.jar libs/google-oauth-client-1.22.0.jar libs/google-http-
+ client-jackson2-1.22.0.jar libs/google-api-client-gson-1.22.0.jar libs/
+ google-http-client-gson-1.22.0.jar libs/google-http-client-1.22.0.jar l
+ ibs/jsr305-1.3.9.jar libs/json-20160810.jar libs/guava-20.0.jar libs/mo
+ ngo-java-driver-3.6.1.jar libs/spring-data-mongodb-2.0.3.RELEASE.jar li
+ bs/spring-expression-5.0.3.RELEASE.jar libs/spring-data-commons-2.0.3.R
+ ELEASE.jar libs/cglib-3.2.6.jar libs/asm-6.0.jar libs/ant-1.9.6.jar lib
+ s/ant-launcher-1.9.6.jar libs/geoip2-2.9.0.jar libs/maxmind-db-1.2.2.ja
+ r libs/httpclient-4.5.3.jar libs/httpcore-4.4.6.jar libs/jackson-databi
+ nd-2.8.8.1.jar libs/jackson-annotations-2.8.0.jar libs/commons-lang-2.6
+ .jar libs/google-api-services-androidpublisher-v3-rev20190414-1.28.0.ja
+ r libs/unirest-java-1.4.9.jar libs/httpasyncclient-4.1.1.jar libs/httpc
+ ore-nio-4.4.4.jar libs/httpmime-4.5.2.jar libs/commons-codec-1.13.jar l
+ ibs/poi-ooxml-3.17.jar libs/poi-3.17.jar libs/poi-ooxml-schemas-3.17.ja
+ r libs/xmlbeans-2.6.0.jar libs/stax-api-1.0.1.jar libs/curvesapi-1.04.j
+ ar libs/opencsv-5.0.jar libs/commons-lang3-3.9.jar libs/commons-text-1.
+ 7.jar libs/commons-beanutils-1.9.4.jar libs/commons-collections4-4.4.ja
+ r libs/slf4j-simple-1.7.21.jar libs/log4j-1.2.17.jar libs/commons-valid
+ ator-1.4.1.jar libs/commons-digester-1.8.1.jar libs/commons-collections
+ -3.2.1.jar libs/vertx-redis-client-3.5.2.CR1.jar libs/vertx-core-3.8.4.
+ jar libs/netty-common-4.1.42.Final.jar libs/netty-buffer-4.1.42.Final.j
+ ar libs/netty-transport-4.1.42.Final.jar libs/netty-handler-4.1.42.Fina
+ l.jar libs/netty-codec-4.1.42.Final.jar libs/netty-handler-proxy-4.1.42
+ .Final.jar libs/netty-codec-socks-4.1.42.Final.jar libs/netty-codec-htt
+ p-4.1.42.Final.jar libs/netty-codec-http2-4.1.42.Final.jar libs/netty-r
+ esolver-4.1.42.Final.jar libs/netty-resolver-dns-4.1.42.Final.jar libs/
+ netty-codec-dns-4.1.42.Final.jar libs/jackson-core-2.9.9.jar libs/sprin
+ g-session-data-redis-2.1.7.RELEASE.jar libs/spring-session-core-2.1.7.R
+ ELEASE.jar libs/spring-boot-starter-data-redis-2.1.5.RELEASE.jar libs/s
+ pring-boot-starter-2.1.5.RELEASE.jar libs/spring-boot-2.1.5.RELEASE.jar
+  libs/spring-boot-autoconfigure-2.1.5.RELEASE.jar libs/spring-boot-star
+ ter-logging-2.1.5.RELEASE.jar libs/logback-classic-1.2.3.jar libs/logba
+ ck-core-1.2.3.jar libs/log4j-to-slf4j-2.11.2.jar libs/log4j-api-2.11.2.
+ jar libs/jul-to-slf4j-1.7.26.jar libs/javax.annotation-api-1.3.2.jar li
+ bs/snakeyaml-1.23.jar libs/lettuce-core-5.1.6.RELEASE.jar libs/reactor-
+ core-3.2.8.RELEASE.jar libs/reactive-streams-1.0.2.jar libs/spring-sess
+ ion-1.2.2.RELEASE.jar libs/vertx-auth-shiro-3.9.3.jar libs/shiro-core-1
+ .2.6.jar libs/jakarta.xml.bind-api-2.3.2.jar libs/jakarta.activation-ap
+ i-1.2.1.jar libs/jaxb-runtime-2.3.2.jar libs/txw2-2.3.2.jar libs/istack
+ -commons-runtime-3.0.8.jar libs/stax-ex-1.8.1.jar libs/FastInfoset-1.2.
+ 16.jar
+Main-Class: com.app.orderservice.MainApp
+Created-By: Maven Integration for Eclipse
+
